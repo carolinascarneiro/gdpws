@@ -19,6 +19,6 @@ public class Average {
             sum += x;
             cnt++;
         }
-        System.out.printf("Avg is %.0f", sum/cnt);
+        System.out.printf("Avg is %.3f", sum/cnt);
     }
 }
