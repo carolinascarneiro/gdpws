@@ -1,3 +1,9 @@
+/*
+Rewrite TenHellos to make a program Hellos that takes the number of lines
+to print as a command-line argument. You may assume that the argument is less than 1000.
+Hint: Use i %10 and i %100 to determine when to use st, nd, rd, or th for printing the i th Hel1o.
+*/
+
 public class TenHellos {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);
