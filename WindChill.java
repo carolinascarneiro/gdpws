@@ -1,5 +1,6 @@
 /*
-Wind chill. Given the temperature t (in Fahrenheit) and 
+1.2. Built-in types of data
+1.2.25. Wind chill. Given the temperature t (in Fahrenheit) and 
 the wind speed v (in miles per hour), the National Weather
 Service defines the effective temperature (the wind chill)
 to be:

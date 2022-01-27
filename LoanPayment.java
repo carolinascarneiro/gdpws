@@ -1,5 +1,6 @@
 /* 
-Write a program that calculates the monthly payments
+1.2 Built-in types of data
+1.2.24. Write a program that calculates the monthly payments
 you would have to make over a given number of years
 to pay off a loan at a given interest rate compounded
 continuously,taking the number of years t,the principal

@@ -1,4 +1,5 @@
 /* 
+1.2 Built-in Data Types
 1.2.27 Gaussian random numbers. 
 One way to generate a random
 number taken from the Gaussian 

@@ -1,3 +1,9 @@
+/*
+1.2 Built-in Types of Data
+1.2.23. Write a program that takes two int values m and d from the command line and prints true 
+if day d of month m is between 3/20 and 6/20, f al se otherwise.
+*/
+
 public class DayOfMonth {
     public static void main(String[] args) {
         //take args m and d from command line

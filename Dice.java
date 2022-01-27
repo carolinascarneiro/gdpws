@@ -1,3 +1,9 @@
+/*
+1.2. Built-in Types of Data
+1.2.20 Write a program that prints the sum of two random 
+integers between 1 and 6 (such as you might get when rolling dice).
+*/
+
 public class Dice {
     public static void main(String[] args) {
         int counter = 0;
