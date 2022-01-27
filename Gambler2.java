@@ -1,3 +1,9 @@
+/*
+1.3 Conditionals and Loops
+1.3.21 Write a version of Gambler that uses two nested whi1e loops or two
+nested for loops instead of a while loop inside a for loop.
+*/
+
 public class Gambler2 {
     public static void main(String[] args) {
         int stake = Integer.parseInt(args[0]);
