@@ -1,3 +1,10 @@
+/*
+1.3 Conditionals and Loops
+1.3.27 Write a program Checkerboard that takes one command-line argument N and uses a loop 
+within a loop to print out a two-dimensional N-by-N checkerboard pattern with alternating 
+spaces and asterisks.
+*/
+
 public class Checkerboard {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);
