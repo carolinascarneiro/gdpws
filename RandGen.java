@@ -1,3 +1,10 @@
+/*
+1.3 Conditionals and Loops
+Write a program that takes an integer Nas a command-line argument,
+uses Math. random() to print Nuniform random values between 0 and 1, 
+and then prints their average value (see Exercise 1.2.30).
+*/
+
 public class RandGen {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);
