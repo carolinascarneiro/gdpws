@@ -1,3 +1,9 @@
+/*
+1.3 Conditionals and Loops
+1.3.1 Write a program that takes three integer command-line arguments 
+and prints equal if all three are equal, and not equal otherwise.
+*/
+
 public class AllEqual {
     public static void main(String[] args) {
         
