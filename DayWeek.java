@@ -1,5 +1,6 @@
 /* 
-1.2.29 Dayoftheweek. 
+1.2 Built-in types of Data
+1.2.29 Day of theweek. 
 Write a program that takes a date as input
 and prints the day of the week that date
 falls on.

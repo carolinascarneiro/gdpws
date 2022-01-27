@@ -1,4 +1,6 @@
-/*1.2.30 Uniform random numbers. 
+/*
+1.2. Built-in Data Types
+1.2.30 Uniform random numbers. 
 Write a program that prints five uniform
 random values between 0 and 1, their 
 average value, and their minimum and maxi
@@ -32,8 +34,5 @@ public class UniRanNum {
         max = Math.max(max, d);
         max = Math.max(max, e);
         System.out.println(max);
-
-
-
     }
 }

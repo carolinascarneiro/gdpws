@@ -1,5 +1,6 @@
 /*
-1.2.31 Mercatorprojection. 
+1.2 Built-in Data Types
+1.2.31 Mercator projection. 
 The Mercator projection is a conformal
 (angle preserving) projection that maps 
 latitude 9 and longitude Xto 

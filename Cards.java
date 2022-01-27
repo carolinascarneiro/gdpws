@@ -1,7 +1,7 @@
 /*
 
 Write a program Deal that takes an command-line
-argument Nand prints N poker hands (five cards each)
+argument N and prints N poker hands (five cards each)
 from a shuffled deck, separated by blank lines.
 
 */
