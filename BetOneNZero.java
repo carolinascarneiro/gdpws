@@ -1,3 +1,11 @@
+/*
+1.3 Conditionals and Loops
+
+Write a code fragment that prints true if the double variables x and y are both 
+strictly between 0 and 1 and f al se otherwise.
+
+*/
+
 public class BetOneNZero {
     public static void main(String[] args) {
 
