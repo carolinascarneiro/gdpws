@@ -1,3 +1,5 @@
+
+
 public class DecToBin2 {
     public static void main(String[] args) {
         long N = Integer.parseInt(args[0]);
